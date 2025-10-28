@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gtsirdava23/Gtsirdava23/main/nature-banner.jpg" width="640" alt="Nature banner">
-</p>
-
 <h1 align="center">🌿 Hey, I'm Hyorhi Tsyrdava (Gio)</h1>
 
 <p align="center">
-  Student · Developer · Creator<br>
+  Student · Developer · Creator  
+  <br>
   <em>"Creating calm technology inspired by nature."</em>
 </p>
 
@@ -86,3 +83,9 @@
 ### 📫 Contact
 📧 **gtsirdava1@gmail.com**  
 📍 **Neuss, Germany**
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gtsirdava23/Gtsirdava23/main/nature-banner.jpg" width="620" alt="Nature banner">
+</p>
