@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gtsirdava23/Gtsirdava23/main/nature-banner.jpg" width="820" alt="Nature banner">
+  <img src="https://raw.githubusercontent.com/Gtsirdava23/Gtsirdava23/main/nature-banner.jpg" width="640" alt="Nature banner">
 </p>
 
 <h1 align="center">🌿 Hey, I'm Hyorhi Tsyrdava (Gio)</h1>
 
 <p align="center">
   Student · Developer · Creator<br>
-  <em>"Creating innovative, calm and inspiring technology"</em>
+  <em>"Creating calm technology inspired by nature."</em>
 </p>
 
 <p align="center">
