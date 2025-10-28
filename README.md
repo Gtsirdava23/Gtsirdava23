@@ -61,13 +61,15 @@
 
 ### ☁️ Featured Projects
 - 🏠 **Real Estate Deals** — CLI app for managing real-estate data (Python + SQLite)  
-  [`repo`](https://github.com/Gtsirdava23/real-estate-cli)
-- ⚡ **FastAPI Mongo CRUD** — REST API for managing users/data with MongoDB  
-  [`repo`](https://github.com/Gtsirdava23/fastapi-mongo-crud)
-- ✅ **Task Manager** — organize daily tasks and priorities with a clean interface  
-  [`repo`](https://github.com/Gtsirdava23/task-manager)
-- 🌿 **Habit Tracker** — track personal growth and habits effortlessly  
-  [`repo`](https://github.com/Gtsirdava23/habit-tracker)
+  [`repo`](https://github.com/Gtsirdava23/Real-Estate-Deals-Python-SQLite-)
+- ✅ **To-Do List** — task manager for daily productivity  
+  [`repo`](https://github.com/Gtsirdava23/To-do-list)
+- 🌍 **TravelQuest** — travel & vacation recommendation web app  
+  [`repo`](https://github.com/Gtsirdava23/TravelQuest-Travel-Recommendations)
+- 🔐 **Password Generator** — secure password creation tool  
+  [`repo`](https://github.com/Gtsirdava23/Password-generator)
+- 🧩 **Puzzles GUI (C#)** — classic puzzle game with a desktop UI (WinForms)  
+  [`repo`](https://github.com/Gtsirdava23/Puzzles)
 
 ---
 
