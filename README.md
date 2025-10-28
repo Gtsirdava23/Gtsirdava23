@@ -1,6 +1,6 @@
 <h1 align="center">🌿 Hey, I'm Hyorhi Tsyrdava (Gio)</h1>
 <p align="center">
-Student · Developer · Nature Enthusiast  
+Student · Developer · Creator 
 <br>
 <em>"Creating calm technology inspired by nature."</em>
 </p>
