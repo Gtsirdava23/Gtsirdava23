@@ -6,7 +6,7 @@
 
 <p align="center">
   Student · Developer · Creator<br>
-  <em>"Creating calm technology inspired by nature."</em>
+  <em>"Creating innovative, calm and inspiring technology"</em>
 </p>
 
 <p align="center">
